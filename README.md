@@ -8,4 +8,4 @@ References:
 2018 Jul 2;1:85. doi: 10.1038/s42003-018-0093-8. PMID: 30271966; PMCID: PMC6123714.
 - (2) Kobayashi-Kirschvink KJ, Nakaoka H, Oda A, Kamei KF, Nosho K, Fukushima H, Kanesaki Y, Yajima S, Masaki H, Ohta K, Wakamoto Y. Linear Regression Links Transcriptomic Data and Cellular Raman Spectra. Cell Syst. 2018 Jul 25;7(1):104-117.e4. doi: 10.1016/j.cels.2018.05.015.
 Epub 2018 Jun 20. PMID: 29936183.
-- [MBPLS documentation](https://mbpls.readthedocs.io/en/latest/)
+- [MBPLS documentation](https://mbpls.readthedocs.io/en/latest/) _Baum et al., (2019). Multiblock PLS: Block dependent prediction modeling for Python. Journal of Open Source Software, 4(34), 1190_
